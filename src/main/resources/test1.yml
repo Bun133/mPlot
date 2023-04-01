@@ -1,0 +1,4 @@
+plots:
+  - "Test plot!" # sendMessage
+  - 20 # wait(tick)
+  - { x: 200,y: 100,z: 555 } # moveTo
